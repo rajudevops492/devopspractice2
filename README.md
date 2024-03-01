@@ -1,2 +1,2 @@
 # devopspractice2
-devops practice 2
+practice session of git
